@@ -1,0 +1,104 @@
+[
+  {
+    "street": "123 Main St",
+    "unit": "Suite 400",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10001"
+  },
+  {
+    "street": "456 Oak Ave",
+    "unit": "Apt 12B",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90012"
+  },
+  {
+    "street": "789 Pine Blvd",
+    "unit": "Suite 205",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60605"
+  },
+  {
+    "street": "321 Maple Dr",
+    "unit": "Apt 5C",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77002"
+  },
+  {
+    "street": "654 Elm St",
+    "unit": "Suite 310",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94103"
+  },
+  {
+    "street": "987 Cedar Ln",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98101-2222"
+  },
+  {
+    "street": "159 Birch Rd",
+    "unit": "Suite 102",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80202"
+  },
+  {
+    "street": "753 Walnut St",
+    "unit": "Apt 7D",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33130-1111"
+  },
+  {
+    "street": "852 Spruce Ct",
+    "unit": "Suite 450",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02108"
+  },
+  {
+    "street": "369 Redwood Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85004"
+  },
+  {
+    "street": "258 Aspen Way",
+    "unit": "Suite 225",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201"
+  },
+  {
+    "street": "147 Magnolia Blvd",
+    "unit": "Apt 4F",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30303"
+  },
+  {
+    "street": "753 Palm St",
+    "unit": "Suite 310",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101"
+  },
+  {
+    "street": "963 Willow Cir",
+    "unit": "Apt 2B",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97205"
+  },
+  {
+    "street": "357 Chestnut Ln",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19106"
+  }
+]
